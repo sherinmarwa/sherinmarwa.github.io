@@ -2,9 +2,9 @@ import { Icons } from "@/components/icons";
 import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
-  name: "Bhuvaneswaran",
-  initials: "B",
-  url: "https://bhuvaneswaran21.github.io/",
+  name: "Sherin Marva",
+  initials: "SM",
+  url: "https://sherinmarwa.github.io/",
   location: "Chennai, Tamil Nadu, India",
   locationLink: "https://www.google.com/maps/place/Chennai",
   description:
@@ -34,18 +34,18 @@ export const DATA = {
   ],
 
   contact: {
-    email: "bhuvansekar001@@gmail.com",
+    email: "sherinn6052@gmail.com",
     tel: "+91-XXXXXXXXXX",
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://github.com/bhuvaneswaran21",
+        url: "https://github.com/sherinmarwa",
         icon: Icons.github,
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/bhuvaneswaran-r-034921176",
+        url: "https://www.linkedin.com/in/sherin-marva-r-034921176",
         icon: Icons.linkedin,
         navbar: true,
       },
@@ -63,7 +63,7 @@ export const DATA = {
       },
       email: {
         name: "Send Email",
-        url: "mailto:bhuvansekar001@gmail.com",
+        url: "mailto:sherinn6052@gmail.com",
         icon: Icons.email,
         navbar: false,
       },
@@ -111,11 +111,11 @@ export const DATA = {
 
   education: [
     {
-      school: "Kalasalingam University",
-      href: "https://kalasalingam.ac.in",
-      degree: "B.Tech in Computer Science Engineering",
+      school: "MAM College of Engineering",
+      href: "https://www.mamce.org/",
+      degree: "B.E Computer Science Engineering",
       logoUrl: "/kare.png",
-      start: "2016",
+      start: "2017",
       end: "2020",
     },
   ],
