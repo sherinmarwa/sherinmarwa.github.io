@@ -101,7 +101,7 @@ export const DATA = {
     {
       school: "MAM College of Engineering",
       href: "https://www.mamce.org/",
-      degree: "B.E Computer Science Engineering",
+      degree: "B.Tech Information Engineering",
       logoUrl: "/MAMLogo.png",
       start: "2017",
       end: "2021",
