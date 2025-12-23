@@ -8,24 +8,24 @@ export const DATA = {
   location: "Chennai, Tamil Nadu, India",
   locationLink: "https://www.google.com/maps/place/Chennai",
   description:
-    "Data Scientist 🚀 specializing in Python, Machine Learning, Big Data (Spark, Hive), Airflow, and GenAI — building scalable data pipelines, predictive models, and business-driven analytics systems.",
+    "Software Developer specializing in Java, Spring Boot, Microservices, and AWS — building scalable backend systems, secure REST APIs, and cloud-ready applications for enterprise and fintech platforms.",
   summary:
-    "I am a Data Scientist with a strong background in Computer Science and real-world experience in building scalable ML systems, big data pipelines, and analytics platforms. My expertise spans across Spark, Hive, Airflow, Python, SQL, and GenAI applications. I focus on converting raw data into production-ready intelligence that drives real business impact.",
+    "I am a Software Developer with a strong foundation in Java and backend development, and real-world experience building microservices-based applications for fintech and banking systems. My expertise includes Spring Boot, REST APIs, MongoDB, SQL, and AWS deployments. I focus on developing secure, scalable, and high-performance systems that support core banking workflows, lending platforms, and enterprise financial applications.",
   avatarUrl: "/myself.png",
 
   skills: [
-    "Python",
+    "Java",
+    "Spring Boot",
+    "Microservices Architecture",
+    "REST APIs",
+    "MongoDB",
     "SQL",
-    "Machine Learning",
-    "Deep Learning",
-    "Apache Spark",
-    "Apache Hive",
-    "Apache Airflow",
-    "Data Engineering",
-    "GenAI",
-    "NLP",
-    "Docker",
     "AWS",
+    "Kafka / RabbitMQ",
+    "Docker",
+    "Kubernetes (Basic)",
+    "API Security & Authentication",
+    "Git & GitHub",
   ],
 
   navbar: [
@@ -45,7 +45,7 @@ export const DATA = {
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/sherin-marva-r-034921176",
+        url: "www.linkedin.com/in/sherin-marwa-77724b200",
         icon: Icons.linkedin,
         navbar: true,
       },
@@ -72,40 +72,28 @@ export const DATA = {
 
   work: [
     {
-      company: "Finsire",
+      company: "Cognizant",
       href: "#",
       badges: ["FinTech", "Big Data"],
       location: "India",
-      title: "Senior software Engineer",
+      title: "software Engineer",
       logoUrl: "/finsire.png",
-      start: "Oct 2025",
-      end: "Present",
+      start: "Jun 2025",
+      end: "Dec 2025",
       description:
         "Leading the development of large-scale ML and Big Data solutions for financial systems. Built and deployed predictive models for credit risk, churn, and fraud. Designed Spark + Hive based data pipelines orchestrated using Apache Airflow with governance through Apache Ranger.",
     },
     {
       company: "Vivriti Capital",
       href: "#",
-      badges: ["Lending", "Risk Analytics"],
+      badges: ["FinTech", ""],
       location: "India",
       title: "R&D Engineer",
       logoUrl: "/vivriti.png",
-      start: "Dec 2022",
-      end: "Sep 2025",
+      start: "Feb 2022",
+      end: "Jun 2025",
       description:
         "Developed ML models for loan default prediction, portfolio risk analytics, and financial intelligence. Automated feature engineering and training pipelines using Airflow. Performed large-scale data processing using Spark and Hive.",
-    },
-    {
-      company: "Mpura Inc",
-      href: "#",
-      badges: ["ETL", "Analytics"],
-      location: "India",
-      title: "Full Stack Engineer",
-      logoUrl: "/mpura.png",
-      start: "Aug 2021",
-      end: "Oct 2022",
-      description:
-        "Built end-to-end ETL pipelines, REST APIs for data platforms, SQL-based analytics systems, and internal dashboards for business monitoring.",
     },
   ],
 
