@@ -11,7 +11,7 @@ export const DATA = {
     "Software Developer specializing in Java, Spring Boot, Microservices, and AWS — building scalable backend systems, secure REST APIs, and cloud-ready applications for enterprise and fintech platforms.",
   summary:
     "I am a Software Developer with a strong foundation in Java and backend development, and real-world experience building microservices-based applications for fintech and banking systems. My expertise includes Spring Boot, REST APIs, MongoDB, SQL, and AWS deployments. I focus on developing secure, scalable, and high-performance systems that support core banking workflows, lending platforms, and enterprise financial applications.",
-  avatarUrl: "",
+  avatarUrl: "/sherin.png",
 
   skills: [
     "Java",
