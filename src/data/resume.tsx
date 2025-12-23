@@ -86,7 +86,7 @@ export const DATA = {
     {
       company: "Vivriti Capital",
       href: "#",
-      badges: ["FinTech", "Banking Systems", "Microservices", "REST APIs"],
+      badges: ["FinTech", "Microservices"],
       location: "India",
       title: "software Engineer",
       logoUrl: "/vivriti.png",
@@ -110,55 +110,59 @@ export const DATA = {
 
   projects: [
     {
-      title: "Credit Risk Prediction System",
+      title: "Supply Chain Finance Platform",
       href: "#",
-      dates: "2024",
+      dates: "2022",
       active: true,
       description:
-        "End-to-end ML system to predict loan default probability using structured financial data with full data pipeline orchestration.",
+        "Developed backend services for a supply chain finance platform enabling invoice financing, vendor onboarding, and transaction tracking. Built scalable microservices using Java and Spring Boot, integrated secure REST APIs, and managed financial data using MongoDB and SQL.",
       technologies: [
-        "Python",
-        "Scikit-learn",
-        "Spark",
-        "Hive",
-        "Airflow",
-        "AWS",
-      ],
-      links: [],
-      image: "",
-      video: "",
-    },
-    {
-      title: "Customer Churn Analytics Platform",
-      href: "#",
-      dates: "2023",
-      active: true,
-      description:
-        "Machine learning-based churn prediction system with feature engineering, model explainability, and automated retraining workflows.",
-      technologies: [
-        "Python",
-        "XGBoost",
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "MongoDB",
         "SQL",
-        "Airflow",
-        "Docker",
+        "AWS"
       ],
       links: [],
       image: "",
       video: "",
     },
     {
-      title: "GenAI NLP Automation System",
+      title: "Co-Lending Finance System",
       href: "#",
       dates: "2024",
       active: true,
       description:
-        "Built a GenAI-powered text classification and summarization engine for automated document intelligence.",
+        "Worked on a co-lending finance system supporting multiple lenders with automated loan processing, document handling, and disbursement workflows. Implemented backend microservices, API integrations, and asynchronous processing to ensure scalability and reliability.",
       technologies: [
-        "Python",
-        "Transformers",
-        "OpenAI",
-        "FastAPI",
-        "Docker",
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "Kafka",
+        "REST APIs",
+        "MongoDB",
+        "AWS"
+      ],
+      links: [],
+      image: "",
+      video: "",
+    },
+    {
+      title: "Enterprise REST API Development – Toyota (Cognizant)",
+      href: "#",
+      dates: "2025",
+      active: true,
+      description:
+        "Worked as a Software Developer at Cognizant on a Toyota enterprise project, focusing on building and maintaining RESTful APIs using Java and Spring Boot. Contributed to backend services that supported business workflows, ensured data consistency, and improved API performance and reliability.",
+      technologies: [
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "SQL",
+        "Git",
+        "Enterprise Systems"
       ],
       links: [],
       image: "",
